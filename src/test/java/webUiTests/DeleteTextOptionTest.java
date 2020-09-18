@@ -1,4 +1,4 @@
-// Test of delete text option
+// Test of the function: delete text option
 package webUiTests;
 
 import common.BaseTest;

@@ -1,4 +1,4 @@
-// Test of the Language exchange option
+// Test of the function: Language exchange option
 package webUiTests;
 
 import common.BaseTest;
