@@ -26,7 +26,7 @@ Current application can test only English interface of google translator.
   <li> Set up JAVA HOME variable with the path to JDK. </li>
   <li> Open git bash, switch to some folder and download current repository be entering to the Git Bash terminal the command: </li>
     <br> <b>git clone https://zlatoslava1@bitbucket.org/zlatoslava1/translatorotest.git </b>
-  <li> Download Intellij Idea https://www.jetbrains.com/idea/download/ if needed. Eclipse also can be used</li>
+  <li> Download Intellij Idea https://www.jetbrains.com/idea/download/ if needed. Eclipse also can be used.</li>
   <li> Open Intellij Idea. Choose import/open project and choose the folder with the project that you had dowloaded. </li>
   <li> Because it is a Maven project it should dowloaded libraries that are used in the project. Make sure you see a Maven tab in the right side of the Intellij Idea window.</li>
   <li> Download from https://chromedriver.chromium.org/downloads the version of chromedriver corresponding to the version of your browser that you checked before. </li>
